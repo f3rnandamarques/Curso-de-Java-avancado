@@ -1,4 +1,4 @@
-package Classe.Desafio;
+package classe.Desafio;
 
 public class Comida {
 

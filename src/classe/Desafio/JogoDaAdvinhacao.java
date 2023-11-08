@@ -1,4 +1,4 @@
-package Classe.Desafio;
+package classe.Desafio;
 
 import java.util.Random;
 import java.util.Scanner;

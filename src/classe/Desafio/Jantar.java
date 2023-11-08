@@ -1,4 +1,4 @@
-package Classe.Desafio;
+package classe.Desafio;
 
 public class Jantar {
     public static void main(String[] args) {
