@@ -1,4 +1,4 @@
-package oo.composicao.heranca.desafio;
+package oo.heranca.desafio;
 
 public class Produto {
 
